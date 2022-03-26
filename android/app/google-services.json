@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "988665479772",
+    "project_id": "decisionapp-2e7cc",
+    "storage_bucket": "decisionapp-2e7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988665479772:android:5027cf8049f7e90ab79c99",
+        "android_client_info": {
+          "package_name": "com.example.decisionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988665479772-dmfko9dgrdlc5ee60dgc499p00eugfov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KcUlVpEC3y1RroLtKvwiQVZbm65CiHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988665479772-dmfko9dgrdlc5ee60dgc499p00eugfov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988665479772-qtbu487ht22ohm3v9m45hm4upj1viqo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.decisionapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
